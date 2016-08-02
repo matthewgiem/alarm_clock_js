@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "gulpfile.js",
-  "dependencies": {},
+  "dependencies": {
+    "moment": "^2.14.1"
+  },
   "devDependencies": {
     "bower-files": "^3.13.3",
     "browser-sync": "^2.14.0",
